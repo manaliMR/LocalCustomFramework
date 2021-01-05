@@ -1,0 +1,6 @@
+framework module LocalCustomFramework {
+  umbrella header "LocalCustomFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

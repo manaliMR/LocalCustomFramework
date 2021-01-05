@@ -1,0 +1,16 @@
+PODS:
+  - LocalCustomFramework (1.0.0)
+
+DEPENDENCIES:
+  - LocalCustomFramework (from `../LocalCustomFramework`)
+
+EXTERNAL SOURCES:
+  LocalCustomFramework:
+    :path: "../LocalCustomFramework"
+
+SPEC CHECKSUMS:
+  LocalCustomFramework: 8e783e40f02649143b80552fcf1e34927f233948
+
+PODFILE CHECKSUM: 40e56a006845190cd35a2b779ad5fa105ec749bf
+
+COCOAPODS: 1.10.0
